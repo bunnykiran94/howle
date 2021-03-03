@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description>Spotlight database view of fact table sn_customerservice_case</description>
+        <label>Case Spotlight</label>
+        <name>sn_customerservice_case_spotlight</name>
+        <plural>Case Spotlights</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+        <sys_created_on>2020-12-23 15:08:10</sys_created_on>
+        <sys_id>c04155051b516810a79275561a4bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_customerservice_case_spotlight</sys_name>
+        <sys_package display_value="howle" source="8f34e1421b1f5c10a79275561a4bcb3e">8f34e1421b1f5c10a79275561a4bcb3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="howle">8f34e1421b1f5c10a79275561a4bcb3e</sys_scope>
+        <sys_update_name>sys_db_view_c04155051b516810a79275561a4bcbf4</sys_update_name>
+        <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+        <sys_updated_on>2020-12-23 15:08:10</sys_updated_on>
+    </sys_db_view>
+</record_update>
