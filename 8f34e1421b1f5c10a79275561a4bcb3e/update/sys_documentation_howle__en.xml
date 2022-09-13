@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Howle" language="en" table="howle">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Howle</label>
+            <language>en</language>
+            <name>howle</name>
+            <plural>howles</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bhanukiran.gokarla@snc</sys_created_by>
+            <sys_created_on>2020-09-18 09:08:40</sys_created_on>
+            <sys_id>4656adc21b1f5c10a79275561a4bcba3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Howle</sys_name>
+            <sys_package display_value="howle" source="8f34e1421b1f5c10a79275561a4bcb3e">8f34e1421b1f5c10a79275561a4bcb3e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="howle">8f34e1421b1f5c10a79275561a4bcb3e</sys_scope>
+            <sys_update_name>sys_documentation_howle__en</sys_update_name>
+            <sys_updated_by>bhanukiran.gokarla@snc</sys_updated_by>
+            <sys_updated_on>2020-09-18 09:08:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
